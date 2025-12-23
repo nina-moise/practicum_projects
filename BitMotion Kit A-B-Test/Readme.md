@@ -8,7 +8,7 @@
 + **pandas**
 + **matplotlib**
 + **matplotlib-venn**
-+ **калькулятора Эвана Миллера**
++ **калькулятор Эвана Миллера**
 + **statsmodels.stats.proportion.proportions_ztest**
 
 ## Общий вывод
