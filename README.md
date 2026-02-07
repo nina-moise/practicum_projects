@@ -11,4 +11,4 @@
 ## Анализ данных  
 |  # |     Наименование проекта        |          Описание             |       Стек            |
 |----|---------------------------------| ------------------------------|-----------------------|
-| 1. | [Секреты "Темнолесья"](https://github.com/nina-moise/practicum_projects/blob/main/Video%20game%20data%20analysis/readme.md)  |  Загрузка данных, проверить на корректность и предобработка                                        | python, pandas
+| 1. | [Секреты "Темнолесья"](https://github.com/nina-moise/practicum_projects/blob/main/Video%20game%20data%20analysis/readme.md)  | Загрузка данных из файла *.scv, проверка на корректность и предобработка| python, pandas            | 
