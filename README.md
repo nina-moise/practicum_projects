@@ -11,7 +11,7 @@
 ## Анализ данных  
 |  # |     Наименование проекта        |          Описание             |       Стек            |
 |----|---------------------------------| ------------------------------|-----------------------|
-| 1. | [Анализ качества игровых данных (Секреты "Темнолесья")](https://github.com/nina-moise/practicum_projects/blob/main/Video%20game%20data%20analysis/readme.md)  | Загрузка данных из файла *.scv, предобработка: проверка на пропуски, дубликаты и аномалии| python, pandas            | 
+| 1. | [Анализ качества игровых данных (Секреты "Темнолесья")](https://github.com/nina-moise/practicum_projects/blob/main/Video%20game%20data%20analysis)  | Загрузка данных из файла *.scv, предобработка: проверка на пропуски, дубликаты и аномалии| python, pandas            | 
 | 2. | [Заведения общественного питания г.Москвы"](https://github.com/nina-moise/practicum_projects/tree/main/Moscow%20catering)  |Исследовательский анализ данных рынка общепита г.Москвы на корректность и полноту с целью дальнейшего выбора подходящего места для нового заведения и ценовой политики.|python, pandas, matplotlib, seaborn, numpy, phik| 
-| 3. | [Анализ рынка стратапов](https://github.com/nina-moise/practicum_projects/blob/main/Startup%20analysis/Startup%20analysis)  |Исследовательский анализ данных рынка стартапов на корректность и полноту с целью дальнейшего выхода заказчика на инвестиционный рынок|python, pandas, matplotlib, matplotlib_venn, seaborn, numpy, missingno| 
+| 3. | [Анализ рынка стратапов](https://github.com/nina-moise/practicum_projects/blob/main/Startup%20analysis)  |Исследовательский анализ данных рынка стартапов на корректность и полноту с целью дальнейшего выхода заказчика на инвестиционный рынок|python, pandas, matplotlib, matplotlib_venn, seaborn, numpy, missingno| 
 
