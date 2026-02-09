@@ -5,7 +5,7 @@
 |  # |     Наименование проекта        |          Описание             |       Стек            |
 |----|---------------------------------| ------------------------------|-----------------------|
 | 1. | [Бизнес-показатели маркетплейса](https://github.com/nina-moise/Portfolio/tree/main/Marketplace%20business%20indicators)|Построение целостной картины бизнеса на основе набора данных|python, pandas, seaborn, matplotlib, юнит-экономика, когортный анализ            
-| 2. | [Проверка гипотезы в сервисе чтения и прослушивания книг Яндекс.Книги](https://github.com/nina-moise/Portfolio/tree/main/Yandex%20Books%20A-B-Test)|Проверка односторонней гипотезы с двумя выборками на основе данных сервиса  Яндекс.Книги.| python, pandas, seaborn, matplotlib, matplotlib_venn, scipy|
+| 2. | [Проверка гипотезы в сервисе чтения и прослушивания книг Яндекс Книги](https://github.com/nina-moise/Portfolio/tree/main/Yandex%20Books%20A-B-Test)|Проверка односторонней гипотезы с двумя выборками на основе данных сервиса  Яндекс Книги.| python, pandas, seaborn, matplotlib, matplotlib_venn, scipy|
 | 3. |[Анализ результатов A/B-тестирования нового интерфейса интернет-магазина](https://github.com/nina-moise/Portfolio/tree/main/BitMotion%20Kit%20A-B-Test) |Оценка корректности проведения А/В теста и анализ его результатов на основе набора данных |python, pandas, matplotlib, matplotlib-venn, калькулятор Эвана Миллера, proportions_ztest|                                                                                                                                                                         |
                                                                                                           
 ## Анализ данных  
@@ -17,3 +17,7 @@
 | 3. | [Прокат самокатов GoFast](https://github.com/nina-moise/practicum_projects/blob/main/Scooter%20rental/readme.md)  |Анализ данных и проверка гипотез в бизнесе проката самокатов|python, pandas, matplotlib, scipy| 
 | 4. | [Анализ качества игровых данных (Секреты "Темнолесья")](https://github.com/nina-moise/practicum_projects/blob/main/Video%20game%20data%20analysis)  | Загрузка исторических данных, предобработка: проверка на пропуски, дубликаты и аномалии| python, pandas            | 
 
+## SQL  
+|  # |     Наименование проекта        |          Описание             |       Стек            |
+|----|---------------------------------| ------------------------------|-----------------------|
+| 1. | [Решение Ad hoc задач в сервисе Яндекс Книги]()  |Решение ad hoc задач, посвященных основным метрикам и паттернам использования сервиса Яндекс Книги|ClickHouse, DBeaver| 
