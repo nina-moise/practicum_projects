@@ -2,7 +2,7 @@
 # TargetFeed A/B
 **Дизайн и подведение итогов A/B эксперимента**
 
-[HTML]() [ipynb](https://github.com/nina-moise/practicum_projects/blob/main/TargetFeed%20A-B%20test/TargetFeed%20A-B%20test.ipynb)
+[HTML](https://github.com/nina-moise/practicum_projects/blob/main/TargetFeed%20A-B%20test/TargetFeed%20A-B%20test.html) [ipynb](https://github.com/nina-moise/practicum_projects/blob/main/TargetFeed%20A-B%20test/TargetFeed%20A-B%20test.ipynb)
 ## Описание проекта
 Компания разрабатывает развлекательное приложение с функцией «бесконечной» ленты. Команда разработчиков рекомендательных систем создала новый алгоритм рекомендаций, который, по их мнению, будет показывать более интересный контент для каждого пользователя. Необходимо рассчитать параметры A/B-теста, который позволит проверить эту гипотезу, и проанализировать его результаты.
 
