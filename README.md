@@ -4,9 +4,10 @@
  ## Продуктовая аналитика  
 |  # |     Наименование проекта        |          Описание             |       Стек            |
 |----|---------------------------------| ------------------------------|-----------------------|
-| 1. | [Бизнес-показатели маркетплейса](https://github.com/nina-moise/Portfolio/tree/main/Marketplace%20business%20indicators)|Построение целостной картины бизнеса на основе набора данных|python, pandas, seaborn, matplotlib, юнит-экономика, когортный анализ            
-| 2. |[Анализ результатов A/B-тестирования нового интерфейса интернет-магазина](https://github.com/nina-moise/Portfolio/tree/main/BitMotion%20Kit%20A-B-Test) |Оценка корректности проведения А/В теста и анализ его результатов на основе набора данных |python, pandas, matplotlib, matplotlib-venn, калькулятор Эвана Миллера, proportions_ztest|
-| 3. |[Мобильная игра "Mines & Moles"](https://github.com/nina-moise/practicum_projects/blob/main/Mines%20%26%20Moles/Readme.md) |Факторный анализ причин падения выручки: от расчёта продуктовых метрик до визуализации и интерпретации результатов|python, pandas, matplotlib, seaborn, дерево метрик, когортный анализ, продуктовая воронка|
+| 1. | [Бизнес-показатели маркетплейса](https://github.com/nina-moise/Portfolio/tree/main/Marketplace%20business%20indicators)|Построение целостной картины бизнеса на основе набора данных|python, pandas, seaborn, matplotlib, юнит-экономика, когортный анализ    
+| 2. | [Исследование юнит-экономики мобильной игры Mines & Moles](https://github.com/nina-moise/practicum_projects/blob/main/mines_moles_audit/readme.md)|Расчёт, визуализация и анализ ключевых метрик юнит-экономики: LTV, CAC, ROI, PayBack Period, ARPPU и RR для оценки состояния бизнеса игрового мобильного приложения|python, pandas, seaborn, matplotlib, юнит-экономика, когортный анализ    
+| 3. |[Анализ результатов A/B-тестирования нового интерфейса интернет-магазина](https://github.com/nina-moise/Portfolio/tree/main/BitMotion%20Kit%20A-B-Test) |Оценка корректности проведения А/В теста и анализ его результатов на основе набора данных |python, pandas, matplotlib, matplotlib-venn, калькулятор Эвана Миллера, proportions_ztest|
+| 4. |[Мобильная игра "Mines & Moles"](https://github.com/nina-moise/practicum_projects/blob/main/Mines%20%26%20Moles/Readme.md) |Факторный анализ причин падения выручки: от расчёта продуктовых метрик до визуализации и интерпретации результатов|python, pandas, matplotlib, seaborn, дерево метрик, когортный анализ, продуктовая воронка|
                                                                                                           
 ## Анализ данных  
 |  # |     Наименование проекта        |          Описание             |       Стек            |
