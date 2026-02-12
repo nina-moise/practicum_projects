@@ -9,13 +9,13 @@
 
 
 ## Навыки и инструменты
-+ **python**
-+ **pandas**
-+ **matplotlib**
-+ **matplotlib_venn**
-+ **seaborn**
-+ **numpy**
-+ **missingno**
++ **Python**
++ **Pandas**
++ **Matplotlib**
++ **Matplotlib_venn**
++ **Seaborn**
++ **Numpy**
++ **Missingno**
 
 ## Общий вывод
 Данные выгружены и предобработаны. Проведен исследовательский анализ данных на полноту и корректность. 
