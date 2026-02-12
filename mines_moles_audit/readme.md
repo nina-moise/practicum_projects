@@ -7,7 +7,7 @@
 ## Навыки и инструменты
 + **Python**
 + **Pandas**
-+ **Peaborn (visualizing LTV/CAC dynamics)**
++ **Seaborn (visualizing LTV/CAC dynamics)**
 + **Matplotlib**
 + **Unit Economics**
 + **Metric Tree Decomposition**
