@@ -11,11 +11,11 @@
 + анализ метрик и выводы.
 
 ## Навыки и инструменты
-+ **python**
-+ **pandas**
-+ **seaborn**
-+ **matplotlib**
-+ **дерево метрик**
++ **Python**
++ **Pandas**
++ **Seaborn**
++ **Matplotlib**
++ **Metric Tree**
 + **Cohort Analysis**
 + **Product Funnel Analysis**
   
