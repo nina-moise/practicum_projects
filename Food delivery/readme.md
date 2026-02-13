@@ -1,7 +1,7 @@
 # Сервис доставки еды «Всё.из.кафе»
 Поиска инсайтов и точек роста¶
 
-[HTML]() [ipynb]()
+[HTML](https://github.com/nina-moise/practicum_projects/blob/main/Food%20delivery/Food_delivery.html) [ipynb](https://github.com/nina-moise/practicum_projects/blob/main/Food%20delivery/Food_delivery.ipynb)
 
 ## Цель проекта 
 
