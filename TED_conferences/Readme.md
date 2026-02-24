@@ -14,10 +14,11 @@
   
 ## Итог проекта
 [Ссылка на дашборд](https://datalens.yandex/hc7c43jsmilm3) 
-+ Дашборд построен по принципу Longread/Landing page - пользователь идет от выбора элеменов управления вверху дашборда к деталям внизу. 
++ Дашборд построен по принципу Longread/Landing page - пользователь идет от выбора в селекторах вверху дашборда к результатам выбора в деталях внизу. 
 + Я использовала скролл-ориентированный дизайн (Storytelling).
 + Акцент сделан на UI/UX, чтобы интерфейс был интуитивно понятен конечному пользователю без инструкций, в единой цветовой гамме.
-
++ Дашборд реализован как набор Wizard- и QL-чартов.
+   
 Ниже приведены 3 скриншота:
 <img src="https://github.com/nina-moise/practicum_projects/blob/main/TED_conferences/TED_conf_screen1.PNG" alt="screen_1">
 <img src="https://github.com/nina-moise/practicum_projects/blob/main/TED_conferences/TED_conf_screen2.PNG" alt="screen_2">
