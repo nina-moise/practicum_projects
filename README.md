@@ -31,5 +31,6 @@
 ## Дашборды  
 |  # |     Наименование проекта        |          Описание             |       Стек            |
 |----|---------------------------------| ------------------------------|-----------------------|
-| 1. | [Конференции TED](https://github.com/nina-moise/practicum_projects/tree/main/TED_conferences)  |Разработка дашборда в соответствии с требованиями заказчика|SQL, DataLens| 
+| 1. | [Сервис доставки еды](https://github.com/nina-moise/practicum_projects/blob/main/Saransk_food_delivery/Readme.md)  |Разработка дашборда с визуализацией бизнес-метрик DAU, MAU, CR, AOV, LTV, RR. Аналитическая записка и рекомендации|SQL, DataLens| 
+| 2. | [Конференции TED](https://github.com/nina-moise/practicum_projects/tree/main/TED_conferences)  |Разработка дашборда в соответствии с требованиями заказчика|SQL, DataLens| 
 
