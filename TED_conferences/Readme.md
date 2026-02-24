@@ -17,7 +17,7 @@
 + Дашборд построен по принципу Longread/Landing page - пользователь идет от выбора в селекторах вверху дашборда к результатам выбора в деталях внизу. 
 + Я использовала скролл-ориентированный дизайн (Storytelling).
 + Акцент сделан на UI/UX, чтобы интерфейс был интуитивно понятен конечному пользователю без инструкций, в единой цветовой гамме.
-+ Дашборд реализован как набор Wizard- и QL-чартов.
++ Дашборд реализован как набор Wizard- и [QL-чартов](https://github.com/nina-moise/practicum_projects/blob/main/TED_conferences/TED_sql_query.sql).
    
 Ниже приведены 3 скриншота:
 <img src="https://github.com/nina-moise/practicum_projects/blob/main/TED_conferences/TED_conf_screen1.PNG" alt="screen_1">
