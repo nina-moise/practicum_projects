@@ -10,9 +10,9 @@
 + **DataLens**
   
 ## Итог проекта
-[Ссылка на дашборд]( https://datalens.yandex/dpzs7rqrj576z) 
-
-+ Дашборд реализован как набор [QL-чартов]().
++ [Ссылка на дашборд]( https://datalens.yandex/dpzs7rqrj576z) 
++ Дашборд реализован как набор [QL-чартов](https://github.com/nina-moise/practicum_projects/blob/main/Saransk_food_delivery/Saransk_food_delivery.sql).
++ По итогам составлена [аналитическая записка](https://github.com/nina-moise/practicum_projects/blob/main/Saransk_food_delivery/Saransk_food_delivery_analytic.pdf). Даны рекомендации.
    
 Ниже приведены скриншоты:
 <img src="https://github.com/nina-moise/practicum_projects/blob/main/Saransk_food_delivery/Saransk_food_delivery_screen_1.PNG" alt="screen_1">
