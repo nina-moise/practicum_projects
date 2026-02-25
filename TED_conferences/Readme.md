@@ -8,6 +8,8 @@
 + Какая средняя длина выступления? Как правильно организовать время проведения конференции?
 + Кто из выступающих интересен зрителям?
 
+[Описание данных](https://github.com/nina-moise/practicum_projects/blob/main/TED_conferences/Data_Description.pdf)
+
 ## Навыки и инструменты
 + **SQL**
 + **DataLens**
